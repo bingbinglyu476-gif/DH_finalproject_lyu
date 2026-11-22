@@ -43,7 +43,7 @@ Ho utilizzato ChatGPT come supporto alla riflessione iniziale sul progetto, per 
 
 **Attività svolte**
 
-Durante la ricerca delle fonti, ho individuato un [sito web](https://dis-ordine.it/2022/11/19/mappa-mosaico-contemporaneo/) relativo a un progetto di mappatura dei mosaici contemporanei di Ravenna, sviluppato tra il 2022 e il 2023.
+Durante la ricerca delle fonti, ho individuato [MAPPA MOSAICO CONTEMPORANEO](https://dis-ordine.it/2022/11/19/mappa-mosaico-contemporaneo/) relativo a un progetto di mappatura dei mosaici contemporanei di Ravenna, sviluppato tra il 2022 e il 2023.
 
 Secondo le informazioni che ho trovato, l'ultimo aggiornamento risale al 3 ottobre 2023. Non sono riuscita, per il momento, a individuare un collegamento funzionante alla mappa interattiva.
 
