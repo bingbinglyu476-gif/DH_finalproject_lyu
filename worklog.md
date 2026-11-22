@@ -69,3 +69,7 @@ Non conosco inoltre il numero effettivo di opere scomparse, modificate o aggiunt
 * Esaminare l'elenco dei mosaici disponibili.
 * Selezionare un primo gruppo di opere da verificare sul campo.
 * Documentare eventuali differenze tra le informazioni pubblicate e la situazione attuale.
+
+**Uso di GenAI**
+
+Ho utilizzato ChatGPT come supporto linguistico per tradurre in italiano le mie riflessioni e gli appunti relativi al progetto, inizialmente formulati in cinese.
